@@ -36,6 +36,7 @@ header p {
 
 .filters button.active,
 .filters button.active-size,
+.filters button.active-color,
 .filters button:hover {
   background-color: #d6b8f2;
   color: white;
